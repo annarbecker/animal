@@ -1,27 +1,43 @@
 .cats {
   border: 1px solid green;
   float:left;
-  width: 25%;
+  width: 20%;
+  padding: 10px;
+  margin: 5px;
+}
+.cats p {
+  background-color: aqua;
+}
+
+.cats p a{
+  background-color: white;
 }
 
 .dogs {
-  border: 10px solid green;
+  border: 1px solid green;
   float:left;
-  width: 25%;
+  width: 20%;
+  padding: 10px;
+  margin: 5px;
 }
 
 .pigs {
-  border: 10px solid green;
+  border: 1px solid green;
   float:left;
-  width: 25%;
+  width: 20%;
+  padding: 10px;
+  margin: 5px;
 }
 
 .birds {
-  border: 10px solid green;
+  border: 1px solid green;
   float:left;
-  width: 25%;
+  width: 20%;
+  padding: 10px;
+  margin: 5px;
 }
 
 img {
   width: 100%;
+  height: 100%;
 }
