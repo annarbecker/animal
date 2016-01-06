@@ -1,0 +1,27 @@
+.cats {
+  border: 1px solid green;
+  float:left;
+  width: 25%;
+}
+
+.dogs {
+  border: 10px solid green;
+  float:left;
+  width: 25%;
+}
+
+.pigs {
+  border: 10px solid green;
+  float:left;
+  width: 25%;
+}
+
+.birds {
+  border: 10px solid green;
+  float:left;
+  width: 25%;
+}
+
+img {
+  width: 100%;
+}
