@@ -33,12 +33,20 @@
   margin: 5px;
 }
 
+.pigs img {
+  border: 3px solid pink;
+}
+
 .birds {
   border: 1px solid green;
   float:left;
   width: 20%;
   padding: 10px;
   margin: 5px;
+}
+
+.blue-bird {
+  font-style: italic;
 }
 
 img {
