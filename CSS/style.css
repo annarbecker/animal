@@ -21,6 +21,10 @@
   margin: 5px;
 }
 
+.dogs h2 {
+  background-color: yellow;
+}
+
 .pigs {
   border: 1px solid green;
   float:left;
