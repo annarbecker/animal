@@ -53,3 +53,19 @@ img {
   width: 100%;
   height: 100%;
 }
+
+/*==========================
+MEDIA QUERIES
+==========================*/
+
+@media screen and (max-width: 480px) {
+  body {
+    background-color: lightblue;
+  }
+  .pigs,
+  .dogs,
+  .cats,
+  .birds {
+    width: 90%;
+  }
+}
